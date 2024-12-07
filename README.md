@@ -65,4 +65,4 @@ Gross!는 맥락 파악 가능한 사용자 맞춤형 필터링 서비스입니�
 ## 실행
 
 1. Clone our GitHub
-2. Run uitest.py #### 변경 ####
+2. Run gross.py
