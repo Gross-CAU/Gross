@@ -35,7 +35,8 @@ Gross!는 맥락 파악 가능한 사용자 맞춤형 필터링 서비스입니�
 
 서비스 내부 구조는 아래 사진과 같이 설계하였습니다.
 
-#### 설계 figure 첨부 ####
+![KakaoTalk_20241207_122334148](https://github.com/user-attachments/assets/e8ac2ec6-cd88-4717-a93a-b5f0c683cc77)
+
 
 1. 사용자가 원본 영상과 필터링 하고 싶은 단어를 입력합니다.
 
