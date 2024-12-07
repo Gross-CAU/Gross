@@ -1,0 +1,10 @@
+# MiDaS 설정
+DEFAULT_MODEL_WEIGHTS = "MiDaS/weights/dpt_beit_large_512.pt"
+DEFAULT_INPUT_PATH = "MiDaS/input"
+DEFAULT_OUTPUT_PATH = "outputs/"
+MODEL_TYPE = "dpt_beit_large_512"
+SIDE_BY_SIDE = False
+OPTIMIZE = False
+HEIGHT = None
+SQUARE = False
+GRAYSCALE = False
