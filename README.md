@@ -68,5 +68,5 @@ Gross!는 맥락 파악 가능한 사용자 맞춤형 필터링 서비스입니�
 2. Clone Grounded-DINO and MiDaS in root route
 - https://github.com/IDEA-Research/GroundingDINO.git
 - https://github.com/isl-org/MiDaS.git
-2. Add checkpoints
-3. Run gross.py
+3. Add checkpoints
+4. Run gross.py
