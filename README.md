@@ -29,7 +29,8 @@ Gross!는 맥락 파악 가능한 사용자 맞춤형 필터링 서비스입니�
 
 ## 서비스 흐름
 
-#### 이미지 첨부 ####
+<img width="969" alt="KakaoTalk_20241207_165740351" src="https://github.com/user-attachments/assets/8f680d38-b20f-497f-a8cf-74693387feb2">
+
 
 ## 설계
 
