@@ -24,16 +24,10 @@ class SAM2Config:
 # Grounding 및 Tracking 관련 설정
 class TrackingConfig:
     MODEL_ID = "IDEA-Research/grounding-dino-tiny"
-    # VIDEO_PATH = "./assets/fish.mp4"
-    # VIDEO_PATH = "./assets/clown.mp4"
     VIDEO_PATH = "./assets/cup_knife.mp4"
-    # VIDEO_PATH = "./assets/check_knife.mp4"
-    # VIDEO_PATH = "./assets/chicken_knife.mp4"
-    # VIDEO_PATH = "./assets/hammer.mp4"
-    # VIDEO_PATH = "./assets/baek_midterm.mp4"
     # TEXT_PROMPT = "fish . knife . "
     OUTPUT_VIDEO_PATH = "./outputs/audio/fish_blackbox.mp4"
-    SOURCE_VIDEO_FRAME_DIR = "./custom_video_frames_cyj"
+    SOURCE_VIDEO_FRAME_DIR = "./custom_video_frames"
     SAVE_TRACKING_RESULTS_DIR = "./tracking_results_black"
     AUDIO_DIR = "./outputs/audio/audio_fish.mp3"
     FINAL_VIDEO_PATH = "./outputs/audio/fish_blackbox_audio.mp4"
